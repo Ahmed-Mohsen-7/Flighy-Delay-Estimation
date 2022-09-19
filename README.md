@@ -11,9 +11,10 @@ Regression, and Polynomial Regression. Also, Lasso was used as Regularization te
 prevent overfitting. At the end of report, results are be shown and discussed along with some comments
 about the data itself.
 
+Please have a look first at requirements.txt to see all used libraries.
 
 ## Dataset
 The dataset used in this project (named "flight_delay.csv") was acquired from a company and can not be published publicly. However, any dataset that contains infromation about airports, flight duration, and delay amount can be trained and/or tested with the code.
 
 ## Note 
-This project was part of my Machine Learning algorithm by professor Adil Khan, Innopolis University 2022.
+This project was part of my Machine Learning algorithm by professor Adil Khan, Innopolis University 2021.
