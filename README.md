@@ -15,5 +15,5 @@ about the data itself.
 ## Dataset
 The dataset used in this project (named "flight_delay.csv") was acquired from a company and can not be published publicly. However, any dataset that contains infromation about airports, flight duration, and delay amount can be trained and/or tested with the code.
 
-##Note 
+## Note 
 This project was part of my Machine Learning algorithm by professor Adil Khan, Innopolis University 2022.
